@@ -2,7 +2,7 @@
 
 All of these files are the same as my portfolio 7z file.<br />
 I uploaded it here for more convenience.<br />
-Inside folder "2-PS_TtRC" has Readme.txt, Executable file, and Video.<br />
+Inside folder "2-PS_TtRC" has Readme.txt, Executable file, Video, and StartingPoint<br />
 All necessary information write on Readme.txt.<br />
 
 すべてファイルはポートフォリオの中の7zファイルと同じです。<br />
