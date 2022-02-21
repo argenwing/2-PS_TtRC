@@ -7,5 +7,5 @@ All necessary information write on Readme.txt.<br />
 
 すべてファイルはポートフォリオの中の7zファイルと同じです。<br />
 便宜上、ここにアップロードしました。<br />
-フォルダ「2-PS_TtRC」内には、Readme.txt、実行可能ファイル、およびビデオがあります。<br />
+フォルダ「2-PS_TtRC」内には、Readme.txt、実行可能ファイル、原点、およびビデオがあります。<br />
 Readme.txtにすべて必要な情報を書き込みます。<br />
